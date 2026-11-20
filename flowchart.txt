@@ -1,0 +1,8 @@
+1: Allow the user to type in a word
+2: Append each letter to a box
+3: Disallow overflow
+4: Check if each letter was in the word AND in the correct position
+4.1: If yes, style it with a green class
+5: Else if it was in the word but NOT in the correct position
+5.1: If yes, style it with a yellow class
+6: If none, style it with a gray class
